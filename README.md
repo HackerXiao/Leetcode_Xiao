@@ -14,3 +14,4 @@ May_31: L9, L13, L14;
 Jun_1: L20, L26, L27
 Jun_2: L28, L35, L38
 June_6: L53, L58; L66;
+June_7: L67, L69, L70;
